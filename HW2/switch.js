@@ -29,5 +29,7 @@ switch (weekend) {
         console.log(Sunday);
         break;
 
+    default:
+        console.log(????)
 
 }
