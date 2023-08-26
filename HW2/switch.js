@@ -1,35 +1,35 @@
-let weekend = prompt()
+let weekend = prompt('enter day')
 
 switch (weekend) {
     case '1':
-        console.log(Moday);
+        console.log('Moday');
         break;
 
     case '2':
-        console.log(Tuesday);
+        console.log('Tuesday');
         break;
 
     case '3':
-        console.log(Wednesday);
+        console.log('Wednesday');
         break;
 
     case '4':
-        console.log(Thursday);
+        console.log('Thursday');
         break;
 
     case '5':
-        console.log(Friday);
+        console.log('Friday');
         break;
 
     case '6':
-        console.log(Saturda);
+        console.log('Saturday');
         break;
 
     case '7':
-        console.log(Sunday);
+        console.log('Sunday');
         break;
 
     default:
-        console.log(????)
+        console.log();
 
 }
